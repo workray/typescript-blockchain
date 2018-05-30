@@ -1,0 +1,8 @@
+{
+  "name": "typescript-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/workray/typescript-blockchain",
+  "author": "Raymond <workrayz@gmail.com>",
+  "license": "MIT"
+}
