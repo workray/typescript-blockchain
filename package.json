@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/workray/typescript-blockchain",
   "author": "Raymond <workrayz@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
